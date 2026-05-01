@@ -42,6 +42,3 @@ Since this is a static web application, running it is very straightforward:
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for any improvements or additional features. Ensure that all added information remains strictly non-partisan and factual.
-
-## License
-MIT License
