@@ -42,3 +42,6 @@ Since this is a static web application, running it is very straightforward:
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for any improvements or additional features. Ensure that all added information remains strictly non-partisan and factual.
+
+
+<img width="957" height="448" alt="1" src="https://github.com/user-attachments/assets/21bddc34-cc0f-4b20-a01b-1e4fae651bb1" />
